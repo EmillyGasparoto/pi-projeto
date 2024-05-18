@@ -1,6 +1,6 @@
 # Sistema de gestão universitária
 
-Repositório criado para entrega do Projeto Integrador do Senac. O grupo contém 5 participantes:
+Repositório criado para entrega do Projeto Integrador do Senac. O grupo contém 8 participantes:
 
 - BIANCA LOPES VASCONCELOS 
 - ELIENAI TAVARES MATOS DA SILVA 
@@ -30,7 +30,11 @@ uma universidade.
 - Faturas - Permitirá o envio de faturas dos produtos fornecidos;
 - Atualização de informação - Permitirá alterações e atualizações de informações do fornecedor.
 
+#### (Inicio dos prototipos)
+
 ##  Diagramas de casos de uso
+
+#### (tentar inserir imagem se ainda tiver)
 
 left to right direction actor Aluno as "Pessoa Física: Aluno" actor Professor as "Pessoa Física: Professor"
 actor Fornecedor as "Pessoa Jurídica: Fornecedor" rectangle "Sistema de Gestão Universitário" {
@@ -56,6 +60,8 @@ Fornecedor -- (Atualizar Informações)
 - Fornecedor (Pessoa Jurídica): Pode fornecer produtos, enviar faturas e atualizar suas informações;
 
 ## Driagrama de Classes
+
+#### (tentar inserir imagem se ainda tiver)
 
 ### Descrição do diagrama de classes 
 
