@@ -57,7 +57,21 @@ Fornecedor -- (Atualizar Informações)
 
 ## Driagrama de Classes
 
+### Descrição do diagrama de classes 
 
+- Pessoa: Classe abstrata que representa uma pessoa e contém os atributos comuns a todas as subclasses,
+como Nome, Endereço e Telefone;
+- PessoaFisica e PessoaJuridica: Subclasses de Pessoa, representando respectivamente pessoas físicas
+(alunos e professores) e pessoas jurídicas (fornecedores). PessoaFisica possui o atributo CPF, enquanto
+PessoaJuridica possui o atributo CNPJ;
+- Aluno e Professor: Subclasses de PessoaFisica, representando alunos e professores, respectivamente.
+Ambas as classes possuem atributos específicos (Matrícula para Aluno e Registro para Professor) e um
+relacionamento de associação com a classe Disciplina através do atributo Disciplinas, que é uma lista de
+disciplinas;
+- Fornecedor: Subclasse de PessoaJuridica, representando fornecedores. Possui um relacionamento de
+agregação com a classe Produto através do atributo Produtos, que é uma lista de produtos;
+- Disciplina e Produto: Classes que representam disciplinas acadêmicas e produtos, respectivamente.
+Ambas possuem atributos Nome e Código.
 
 
 
