@@ -103,7 +103,7 @@ Fornecedores podem verificar os produtos fornecidos, enviar faturas, e atualizar
 
 ##  Diagramas de casos de uso
 
-#### (tentar inserir imagem se ainda tiver)
+![diagrama de casos de uso](/prototipo-pi-imagem/diagrama-casos-de-uso.png)
 
 left to right direction actor Aluno as "Pessoa Física: Aluno" actor Professor as "Pessoa Física: Professor"
 actor Fornecedor as "Pessoa Jurídica: Fornecedor" rectangle "Sistema de Gestão Universitário" {
@@ -130,7 +130,7 @@ Fornecedor -- (Atualizar Informações)
 
 ## Driagrama de Classes
 
-#### (tentar inserir imagem se ainda tiver)
+![diagrama de classes](/prototipo-pi-imagem/diagrama-de-classes.png)
 
 ### Descrição do diagrama de classes 
 
