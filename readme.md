@@ -29,7 +29,13 @@ uma universidade.
 - Faturas - Permitirá o envio de faturas dos produtos fornecidos;
 - Atualização de informação - Permitirá alterações e atualizações de informações do fornecedor.
 
-#### (Inicio dos prototipos)
+### Login/Cadastro
+
+Tela responsável por validar login, senha, e fazer o cadastro de usuários 
+
+![Tela de Login/Cadastro] (C:\Users\emill\Downloads\prototipo-pi\1.jpg)
+
+
 
 ##  Diagramas de casos de uso
 
