@@ -33,7 +33,7 @@ uma universidade.
 
 Tela responsável por validar login, senha, e fazer o cadastro de usuários 
 
-![Tela de Login/Cadastro] (C:\Users\emill\Downloads\prototipo-pi\1.jpg)
+![Tela de Login/Cadastro] (C:\Users\emill\Git\pi-projeto\prototipo-pi-imagem\1.jpg)
 
 
 
