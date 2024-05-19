@@ -18,8 +18,7 @@ uma universidade.
 
 ## Telas
 
-- Cadastro - Permitirá o cadastro de integrantes/forncedores da instituição (professores, alunos e forncedores);
-- Login - Permitirá o login dos integrantes da instituição;
+- Login/Cadastro - Permitirá o login e cadastro dos integrantes e fornecedores da instituição;
 - Matrícula em disciplina - Permitirá que o aluno se matricule em disciplinas;
 - Consultar Notas - Permitirá que o aluno consulte suas notas do semestre;
 - Pagar mensalidade - Permitirá que o aluno pague a mensalidade;
