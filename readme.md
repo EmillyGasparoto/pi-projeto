@@ -37,7 +37,7 @@ Tela responsável por validar login, senha, e fazer o cadastro de usuários.
 
 ### Página do Aluno
 
-Área exclusiva do aluno para matricular-se em disciplina, consultar notas, consultar boleto e pagar boletos.
+Área exclusiva do aluno para matricular-se em disciplina, consultar notas, consultar boleto e pagar a mensalidade.
 
 ![Pagina do Aluno](/prototipo-pi-imagem/2.jpg)
 
@@ -51,7 +51,7 @@ Tela responsável por validar login, senha, e fazer o cadastro de usuários.
 
 Área para consulta de notas e média das disciplinas.
 
-prototipo-pi-imagem/6.jpg(/prototipo-pi-imagem/5.jpg)
+![consultar notas](/prototipo-pi-imagem/5.jpg)
 
 ### Mensalidade 
 
