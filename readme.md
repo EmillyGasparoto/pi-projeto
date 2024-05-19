@@ -31,11 +31,75 @@ uma universidade.
 
 ### Login/Cadastro
 
-Tela responsável por validar login, senha, e fazer o cadastro de usuários 
+Tela responsável por validar login, senha, e fazer o cadastro de usuários.
 
 ![Tela de Login/Cadastro](/prototipo-pi-imagem/1.jpg)
 
+### Página do Aluno
 
+Área exclusiva do aluno para matricular-se em disciplina, consultar notas, consultar boleto e pagar boletos.
+
+![Pagina do Aluno](/prototipo-pi-imagem/2.jpg)
+
+### Matrícula em disciplina
+
+Área em que o aluno pode se matricular em disciplinas.
+
+![Pagina do Aluno - Matrícula](/prototipo-pi-imagem/4.jpg)
+
+### Consulta de Notas
+
+Área para consulta de notas e média das disciplinas.
+
+prototipo-pi-imagem/6.jpg(/prototipo-pi-imagem/5.jpg)
+
+### Mensalidade 
+
+Área que o aluno acessa para verificar boletos e realizar o pagamento.
+
+![Mensalidade](/prototipo-pi-imagem/6.jpg)
+
+### Área do Professor
+
+Nessa página o professor pode escolher entre atribuir notas, criar planos de aula e registrar a frequência dos alunos.
+
+![Área do professor](/prototipo-pi-imagem/3.jpg)
+
+### Criar plano de Aula
+
+Área onde professores criam planos de aula.
+
+![Plano de aula](/prototipo-pi-imagem/7.jpg)
+
+### Frequência de alunos
+
+Área onde os professores registram a frequência dos alunos.
+
+![frequência](/prototipo-pi-imagem/8.jpg)
+
+### Área dos Fornecedores
+
+Fornecedores podem verificar os produtos fornecidos, enviar faturas, e atualizar o cadastro.
+
+![Área do fornecedor](/prototipo-pi-imagem/9.jpg)
+
+### Produtos fornecidos
+
+Área onde fornecedores tem acesso aos produtos fornecidos. Também podem adicionar novos produtos.
+
+![produtros fornecidos](/prototipo-pi-imagem/10.jpg)
+
+### Fatura de produtos fornecidos
+
+Área própria para verificação de boletos de produtos fornecidos.
+
+![boletos de produtos fornecidos](/prototipo-pi-imagem/11.jpg)
+
+### Área para atualização cadastral dos Fornecedores
+
+Área para atualizar as informações de cadastro dos fornecedores.
+
+![Atualização cadastral dos fornecedores](/prototipo-pi-imagem/12.jpg)
 
 ##  Diagramas de casos de uso
 
